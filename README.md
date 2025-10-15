@@ -21,7 +21,7 @@ This repo is **frontend only** – contributors can improve the design, add new 
 1. Clone the repo
 
     ```bash
-    git clone 
+    git clone https://github.com/mstsurnalyakter/shop-now.git
     cd ShopNow
     ```
 
